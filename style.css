@@ -1,0 +1,12 @@
+#male{
+    display: none;
+}
+#female{
+    display: none;
+}
+.spinner{
+    width: 50px;
+    border-radius: 50%;
+    display: none;
+    margin: 0 auto;
+}
